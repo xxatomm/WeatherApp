@@ -1,5 +1,5 @@
 # 🌤️ WeatherApp
-Aplicación del clima en tiempo real con interfaz intuitiva, desarrollada con React.js y la API de OpenWeatherMap. Obtén información meteorológica de cualquier ciudad del mundo, incluyendo temperatura, humedad, velocidad del viento y más.
+Aplicación del clima en tiempo real con interfaz intuitiva, desarrollada con Next.js y la API de OpenWeatherMap. Obtén información meteorológica de cualquier ciudad del mundo, incluyendo temperatura, humedad, velocidad del viento y más.
 ## ✨ Características
 - Búsqueda por ciudad: Encuentra el clima de cualquier lugar.
 - Datos en tiempo real: Temperatura, humedad, velocidad del viento y descripción climática.
