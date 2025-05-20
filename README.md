@@ -19,6 +19,9 @@ npm install
 3. Configura la API Key:
 - Obtén una API Key gratuita en OpenWeatherMap.
 - Crea un archivo .env en la raíz del proyecto y añade:
+```bash
+NEXT_PUBLIC_OPENWEATHER_API_KEY="TU_API_KEY"
+```
 4. Inicia la aplicación:
 ```bash
 npm run dev
