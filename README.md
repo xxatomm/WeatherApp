@@ -29,8 +29,6 @@ npm run dev
 ## 🛠 Tecnologías utilizadas
 - Frontend: Next.js, CSS Modules
 - API: OpenWeatherMap
-- Gestión de estado: React Hooks (useState, useEffect)
-- Bundler: Vite (por la estructura del proyecto)
 ## 📌 Próximas mejoras
 - Pronóstico extendido (5 días).
 - Geolocalización automática.
